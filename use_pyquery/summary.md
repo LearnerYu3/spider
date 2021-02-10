@@ -80,4 +80,4 @@ pyquery 提供了一些方法来对节点进行动态修改
 * attr、text 和 html
 * remove
 ## 伪类选择器
-CSS 选择器支持多种多样的伪类选择器，可参考 http://www.ww3school.com.cn/css/index.asp
+CSS 选择器支持多种多样的伪类选择器，可参考 http://www.w3school.com.cn/css/index.asp
